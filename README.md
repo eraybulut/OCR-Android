@@ -2,6 +2,7 @@
 
 Simple ocr making using Google ML Kit for android
 
+<img src="media/mlkit.jpg"  width="250">
 
 ## How to use Google ML Kit for android
 
