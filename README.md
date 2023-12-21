@@ -1,8 +1,8 @@
 # OCR-Android
 
-Simple ocr making using Google ML Kit for android
+An OCR application for android using Google ML kit
 
-<img src="media/mlkit.jpg"  width="250">
+<img src="media/app_image.jpeg"  width="250">
 
 ## How to use Google ML Kit for Android
 
